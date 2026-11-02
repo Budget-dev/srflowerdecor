@@ -1,11 +1,16 @@
-<div align="center">
+# SR Flower Decoration
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+## Overview
 
-  <h1>Built with AI Studio</h2>
+Floral decor and event decoration services in Vijayawada. Includes wedding stage decorations, flower car decorations, bride & groom garlands, party setups, and instant WhatsApp booking integration.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Development
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+Prefer working locally? You need Node.js and npm:
 
-</div>
+```sh
+git clone <this-repository-url>
+cd <repository-name>
+npm i
+npm run dev
+```

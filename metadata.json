@@ -1,0 +1,8 @@
+{
+  "name": "Mashallah Flowers",
+  "description": "Floral decor and event decoration services in Vijayawada with curated bouquets, stage decor, wedding flowers, and WhatsApp booking integration.",
+  "requestFeedback": false,
+  "userFacing": true,
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
